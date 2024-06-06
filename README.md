@@ -1,8 +1,24 @@
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/only-svg/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/only-svg/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=salman0ansari&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=salman0ansari&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=salman0ansari&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <div id="badges">
+    <a href="https://github.com/salman0ansari">
+    <img src="https://komarev.com/ghpvc/?username=salman0ansari&style=for-the-badge&color=orange" alt="Profile View Badge"/>
+  </a>
+  <br>
+  <a href="https://t.me/salman0ansari">
+    <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+   <a href="https://join.skype.com/invite/rI5pLf9YIvTA">
+    <img src="https://img.shields.io/badge/Skype-00AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype Badge"/>
+  </a>
+</div>
+</div>
+
